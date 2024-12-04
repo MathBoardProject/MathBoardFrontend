@@ -1,0 +1,14 @@
+node_modules/
+*.log
+.env
+
+.vscode/
+.idea/
+*.code-workspace
+
+.npm
+
+docker-compose.override.yml
+.dockerignore
+.docker/
+docker_logs/
